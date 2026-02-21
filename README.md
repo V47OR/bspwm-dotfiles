@@ -1,4 +1,4 @@
-<h1 align="center"> :herb: Сборка man0waR :herb: </h1>
+<h1 align="center"> :herb: Сборка Zproger :herb: </h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/issues/man0waR/bspwm-dotfiles?style=for-the-badge&color=7eb336">
@@ -92,7 +92,7 @@
 
 ## :link: Контакты
 Проект активно развивается. Следите за обновлениями и предлагайте идеи:
-*   **Telegram:** [**man0waR_code**](https://t.me/thereal321)
+
 
 ---
 <p align="center">Made with ❤️ for Arch Linux Users</p>
